@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6664f5af-17aa-4da5-817a-2ba4f8143c2a",
+    "categoryId": "6de26958-d550-49f2-89b6-20b54088b068",
+    "name": "Chocolate - Liqueur Cups With Foil",
+    "itemInStock": false
+  },
+  {
+    "id": "7cbbbfce-7c59-4b4e-a0b8-2de475694eb3",
+    "categoryId": "6de26958-d550-49f2-89b6-20b54088b068",
+    "name": "Towel Multifold",
+    "itemInStock": true
+  },
+  {
+    "id": "3c9d94ec-a5bf-46d3-ac9e-36ba9ac674f3",
+    "categoryId": "6de26958-d550-49f2-89b6-20b54088b068",
+    "name": "Coffee - 10oz Cup 92961",
+    "itemInStock": true
+  },
+  {
+    "id": "dd0d3680-2c99-44c4-acdf-8486d2a6e333",
+    "categoryId": "6de26958-d550-49f2-89b6-20b54088b068",
+    "name": "Greens Mustard",
+    "itemInStock": false
+  },
+  {
+    "id": "b877f533-0733-436b-8174-614916ccc2c2",
+    "categoryId": "c58dfe33-e144-4592-9dd4-1810448a7f93",
+    "name": "Pear - Halves",
+    "itemInStock": false
+  },
+  {
+    "id": "ef83a1be-1875-44b6-976e-1565c9c2df9b",
+    "categoryId": "c58dfe33-e144-4592-9dd4-1810448a7f93",
+    "name": "Scallops - 20/30",
+    "itemInStock": true
+  },
+  {
+    "id": "9bf5955a-b4d5-4d2a-9cd1-0fa427cb2e69",
+    "categoryId": "c58dfe33-e144-4592-9dd4-1810448a7f93",
+    "name": "Capicola - Hot",
+    "itemInStock": true
+  },
+  {
+    "id": "a51f254c-c44e-43b4-93b1-e40d0fd575bb",
+    "categoryId": "c58dfe33-e144-4592-9dd4-1810448a7f93",
+    "name": "Juice - Ocean Spray Cranberry",
+    "itemInStock": false
+  },
+  {
+    "id": "5bcca38a-22a3-44ae-9671-d35b537f742f",
+    "categoryId": "d699f55d-ac50-4c04-a280-c1da2676f60b",
+    "name": "Bar Nature Valley",
+    "itemInStock": false
+  },
+  {
+    "id": "db1ee264-0473-48b8-ad0b-7fe235bdd536",
+    "categoryId": "1fe10e3f-646d-47e3-941c-95c7bd17c42b",
+    "name": "Cookies - Amaretto",
+    "itemInStock": true
+  }
+]
