@@ -19,13 +19,12 @@ const router = Router();
 
 const resolveProductHandler = (req: Request, res: Response, next: NextFunction): void => {
   const productId = req.params.id;
-  console.log(req.params);
   const productIndex = products.findIndex((u) => u.id === productId);
   if (productIndex < 0) {
     res.sendStatus(404);
     return;
   }
-  if (productId.length < 36) {
+  if (productId.length !== 36) {
     res.sendStatus(400);
     return;
   }

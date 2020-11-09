@@ -15,13 +15,12 @@ const router = Router();
 
 const resolveCategoryHandler = (req: Request, res: Response, next: NextFunction): void => {
   const categoryId = req.params.id;
-  console.log(req.params);
   const categoryIndex = categories.findIndex((u) => u.id === categoryId);
   if (categoryIndex < 0) {
     res.sendStatus(404);
     return;
   }
-  if (categoryId.length < 36) {
+  if (categoryId.length !== 36) {
     res.sendStatus(400);
     return;
   }
